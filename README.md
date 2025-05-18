@@ -19,31 +19,29 @@ The AR Video Player application is an innovative tool developed using Unity that
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+A look at the Scene Window in Unity:  <br/>
+<img src="https://i.ibb.co/YBdJ5wTX/Screenshot-2025-05-18-054335.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The Image Target where the AR Video Player gets attached:  <br/>
+<img src="https://i.ibb.co/bV6NW2q/Image-Target.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Assets of the project:  <br/>
+<img src="https://i.ibb.co/4Z6Hy1jx/Screenshot-2025-05-18-055245.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+When pressed "Play" Interface: <br/>
+<img src="https://i.ibb.co/xSnS81vc/Screenshot-2025-05-18-054456.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+When the Video Player is pressed to play using the button: <br/>
+<img src="https://i.ibb.co/G4fFPsWg/Screenshot-2025-05-18-05-46-56-48-254de13a4bc8758c9908fff1f73e3725-3.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+When the Video Player is pressed to pause using the button: <br/>
+<img src="https://i.ibb.co/s9Z8Jh6S/Screenshot-2025-05-18-054546.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
